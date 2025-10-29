@@ -1,3 +1,7 @@
+/*
+error fix sendiri jiR
+api spotify nya kadang error, ganti aja punyamu gw males benerin scrape nya
+*/
 const { Telegraf, Markup, InputFile } = require("telegraf");
 const axios = require("axios");
 const set = require('./sett');
